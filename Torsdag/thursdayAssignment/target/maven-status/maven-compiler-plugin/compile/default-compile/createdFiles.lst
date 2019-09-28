@@ -1,0 +1,5 @@
+rest\CorsResponseFilter.class
+rest\userResource.class
+rest\User.class
+rest\ApplicationConfig.class
+rest\CorsRequestFilter.class
