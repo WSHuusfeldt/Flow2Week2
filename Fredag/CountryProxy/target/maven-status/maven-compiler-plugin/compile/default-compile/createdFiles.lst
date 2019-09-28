@@ -1,0 +1,5 @@
+rest\CountryResource$Country.class
+rest\CorsResponseFilter.class
+rest\ApplicationConfig.class
+rest\CorsRequestFilter.class
+rest\CountryResource.class
